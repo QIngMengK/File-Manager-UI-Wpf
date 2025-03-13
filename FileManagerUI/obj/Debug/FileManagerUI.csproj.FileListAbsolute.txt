@@ -31,3 +31,7 @@ D:\App\File-Manager-UI-Wpf\FileManagerUI\obj\Debug\FileManagerUI.csproj.CoreComp
 D:\App\File-Manager-UI-Wpf\FileManagerUI\obj\Debug\FileMana.71A8F543.Up2Date
 D:\App\File-Manager-UI-Wpf\FileManagerUI\obj\Debug\FileManagerUI.exe
 D:\App\File-Manager-UI-Wpf\FileManagerUI\obj\Debug\FileManagerUI.pdb
+D:\App\File-Manager-UI-Wpf\FileManagerUI\bin\Debug\FileManagerUI.exe.manifest
+D:\App\File-Manager-UI-Wpf\FileManagerUI\bin\Debug\FileManagerUI.application
+D:\App\File-Manager-UI-Wpf\FileManagerUI\obj\Debug\FileManagerUI.exe.manifest
+D:\App\File-Manager-UI-Wpf\FileManagerUI\obj\Debug\FileManagerUI.application

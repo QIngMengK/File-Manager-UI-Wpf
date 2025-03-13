@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\App\\File-Manager-UI-Wpf\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\App\\File-Manager-UI-Wpf\\FileManagerUI\\MainWindow.xaml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:FileManagerUI\\MainWindow.xaml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\App\\File-Manager-UI-Wpf\\FileManagerUI\\Converters\\TypeToIconConverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:FileManagerUI\\Converters\\TypeToIconConverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\App\\File-Manager-UI-Wpf\\FileManagerUI\\View\\MainWindow.xaml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:FileManagerUI\\View\\MainWindow.xaml||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\App\\File-Manager-UI-Wpf\\FileManagerUI\\ViewModel\\MainViewModel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:FileManagerUI\\ViewModel\\MainViewModel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\App\\File-Manager-UI-Wpf\\FileManagerUI\\ViewModel\\ViewModelBase.cs||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:FileManagerUI\\ViewModel\\ViewModelBase.cs||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\App\\File-Manager-UI-Wpf\\FileManagerUI\\Models\\DirectoryItem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:FileManagerUI\\Models\\DirectoryItem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\App\\File-Manager-UI-Wpf\\FileManagerUI\\MainWindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:FileManagerUI\\MainWindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TypeToIconConverter.cs",
+              "DocumentMoniker": "D:\\App\\File-Manager-UI-Wpf\\FileManagerUI\\Converters\\TypeToIconConverter.cs",
+              "RelativeDocumentMoniker": "FileManagerUI\\Converters\\TypeToIconConverter.cs",
+              "ToolTip": "D:\\App\\File-Manager-UI-Wpf\\FileManagerUI\\Converters\\TypeToIconConverter.cs",
+              "RelativeToolTip": "FileManagerUI\\Converters\\TypeToIconConverter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T06:01:16.854Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "D:\\App\\File-Manager-UI-Wpf\\FileManagerUI\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "FileManagerUI\\MainWindow.xaml.cs",
+              "ToolTip": "D:\\App\\File-Manager-UI-Wpf\\FileManagerUI\\MainWindow.xaml.cs",
+              "RelativeToolTip": "FileManagerUI\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T05:57:38.255Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "D:\\App\\File-Manager-UI-Wpf\\FileManagerUI\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "FileManagerUI\\MainWindow.xaml",
+              "ToolTip": "D:\\App\\File-Manager-UI-Wpf\\FileManagerUI\\MainWindow.xaml",
+              "RelativeToolTip": "FileManagerUI\\MainWindow.xaml",
+              "ViewState": "AgIAAP4BAAAAAAAAAAAAABMCAABqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-03-13T05:56:56.248Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "D:\\App\\File-Manager-UI-Wpf\\FileManagerUI\\View\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "FileManagerUI\\View\\MainWindow.xaml",
+              "ToolTip": "D:\\App\\File-Manager-UI-Wpf\\FileManagerUI\\View\\MainWindow.xaml",
+              "RelativeToolTip": "FileManagerUI\\View\\MainWindow.xaml",
+              "ViewState": "AgIAABUAAAAAAAAAAAAcwDkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-03-13T05:56:10.998Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainViewModel.cs",
+              "DocumentMoniker": "D:\\App\\File-Manager-UI-Wpf\\FileManagerUI\\ViewModel\\MainViewModel.cs",
+              "RelativeDocumentMoniker": "FileManagerUI\\ViewModel\\MainViewModel.cs",
+              "ToolTip": "D:\\App\\File-Manager-UI-Wpf\\FileManagerUI\\ViewModel\\MainViewModel.cs",
+              "RelativeToolTip": "FileManagerUI\\ViewModel\\MainViewModel.cs",
+              "ViewState": "AgIAAFoAAAAAAAAAAAAcwHsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T05:54:44.83Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ViewModelBase.cs",
+              "DocumentMoniker": "D:\\App\\File-Manager-UI-Wpf\\FileManagerUI\\ViewModel\\ViewModelBase.cs",
+              "RelativeDocumentMoniker": "FileManagerUI\\ViewModel\\ViewModelBase.cs",
+              "ToolTip": "D:\\App\\File-Manager-UI-Wpf\\FileManagerUI\\ViewModel\\ViewModelBase.cs",
+              "RelativeToolTip": "FileManagerUI\\ViewModel\\ViewModelBase.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T05:53:57.204Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DirectoryItem.cs",
+              "DocumentMoniker": "D:\\App\\File-Manager-UI-Wpf\\FileManagerUI\\Models\\DirectoryItem.cs",
+              "RelativeDocumentMoniker": "FileManagerUI\\Models\\DirectoryItem.cs",
+              "ToolTip": "D:\\App\\File-Manager-UI-Wpf\\FileManagerUI\\Models\\DirectoryItem.cs",
+              "RelativeToolTip": "FileManagerUI\\Models\\DirectoryItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T05:49:31.196Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
